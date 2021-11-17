@@ -7,3 +7,7 @@ patches/
 seminar.ipynb
 task.ipynb
 test/
+color_patches/
+dataset/
+imgs/
+masks/
